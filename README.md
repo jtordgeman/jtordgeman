@@ -17,7 +17,7 @@
 👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `React`, `TypeScript`<p/>
 ☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Azure Functions`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
-🎮 Currently gaming on `Nintendo Switch`, `Playstaiton 4 Pro`, `Google Stadia`, `Xbox Series X`
+🎮 Currently gaming on `Nintendo Switch`, `Geforce Now 3080 Tier`, `Google Stadia`, `Xbox Series X`
 
 ### Stats
 
