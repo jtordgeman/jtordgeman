@@ -15,7 +15,7 @@
 
 🤖 Fighting big bad bots over at [PerimeterX](https://www.perimeterx.com). <p/>
 👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `React`, `TypeScript`<p/>
-☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Azure Functions`<p/>
+☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
 🎮 Currently gaming on `Nintendo Switch`, `Geforce Now 3080 Tier`, `Google Stadia`, `Xbox Series X`
 
