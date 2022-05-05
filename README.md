@@ -14,7 +14,7 @@
 ### What I'm doing
 
 💰 Financing stuff at [April](https://www.getapril.com). <p/>
-👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Lua`, `React`, `TypeScript`<p/>
+👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Python`, `React`, `TypeScript`<p/>
 ☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
 🎮 Currently gaming on `Nintendo Switch`, `Geforce Now 3080 Tier`, `Playstation 5`, `Xbox Series X`
