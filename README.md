@@ -9,11 +9,12 @@
 [![](https://img.shields.io/badge/dev.to-pxjohnny-orange)](https://dev.to/pxjohnny)
 [![](https://img.shields.io/badge/Medium-%40fsjohnny-brightgreen)](https://medium.com/@fsjohnny)
 
-### Hi there, i'm Johnny Tordgeman and i'm a full stack engineer 👋
+### Hi there, i'm Johnny Tordgeman and i'm a (web3) full stack engineer 👋
 
 ### What I'm doing
 
-💰 Financing stuff at [April](https://www.getapril.com). <p/>
+💰 Core Team engineering stuff at [April](https://www.getapril.com). <p/>
+🛠️ Head dev / backend at [Dropout](https://dropoutnft.io/) and [Vibe](https://www.vibe.xyz/). <p/>
 👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Python`, `React`, `TypeScript`<p/>
 ☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
