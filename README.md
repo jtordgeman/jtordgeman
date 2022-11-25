@@ -13,10 +13,10 @@
 
 ### What I'm doing
 
-💰 Core Team engineering stuff at [April](https://www.getapril.com). <p/>
+💰 Core Team engineer at [April](https://www.getapril.com). <p/>
 <!-- 🛠️ Head dev / backend at [Dropout](https://dropoutnft.io/) and [Vibe](https://www.vibe.xyz/). <p/> -->
 👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Python`, `React`, `TypeScript`<p/>
-☁️ Clouding with `Lambda Edge`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
+☁️ Clouding with `AWS Lambda`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
 🎮 Currently gaming on `Nintendo Switch`, `Geforce Now 3080 Tier`, `Playstation 5`, `Xbox Series X`
 
