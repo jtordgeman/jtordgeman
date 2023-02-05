@@ -13,8 +13,7 @@
 
 ### What I'm doing
 
-💰 Core Team engineer at [April](https://www.getapril.com). <p/>
-<!-- 🛠️ Head dev / backend at [Dropout](https://dropoutnft.io/) and [Vibe](https://www.vibe.xyz/). <p/> -->
+🛠️ Head dev / backend at [Dropout](https://dropoutnft.io/) and [Vibe](https://www.vibe.xyz/). <p/>
 👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Python`, `React`, `TypeScript`<p/>
 ☁️ Clouding with `AWS Lambda`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
