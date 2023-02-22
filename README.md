@@ -9,15 +9,17 @@
 [![](https://img.shields.io/badge/dev.to-pxjohnny-orange)](https://dev.to/pxjohnny)
 [![](https://img.shields.io/badge/Medium-%40fsjohnny-brightgreen)](https://medium.com/@fsjohnny)
 
-### Hi there, i'm Johnny Tordgeman and i'm a (web3) full stack engineer 👋
+### Hi there, i'm Johnny Tordgeman and i'm a (web3) full stack engineer  👋
 
 ### What I'm doing
 
 🛠️ Head dev / backend at [Dropout](https://dropoutnft.io/) and [Vibe](https://www.vibe.xyz/). <p/>
-👨‍💻 Working with `JavaScript`, `NodeJS`, `Rust`, `Python`, `React`, `TypeScript`<p/>
-☁️ Clouding with `AWS Lambda`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
-🛍️ Ecommercing with `Salesforce Commerce Cloud`<p/>
-🎮 Currently gaming on `Nintendo Switch`, `Geforce Now 3080 Tier`, `Playstation 5`, `Xbox Series X`
+
+👨‍💻 Proficent with `Rust`, `JavaScript/TypeScript`, `NodeJS`, `React`<p/>
+
+💻 Solana smart programs, Smart contract using Solidity
+
+☁️ Clouding with `AWS Lambdas`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 
 ### Stats
 
