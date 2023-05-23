@@ -13,7 +13,7 @@
 
 ### What I'm doing
 
-🛠️ Head dev / backend at [Dropout](https://dropoutnft.io/) and [Vibe](https://www.vibe.xyz/). <p/>
+🛠️ Head dev at [Dropout](https://dropoutnft.io/). <p/>
 
 👨‍💻 Proficent with `Rust`, `JavaScript/TypeScript`, `NodeJS`, `React`<p/>
 
