@@ -15,11 +15,11 @@
 
 🛠️ Head dev at [Dropout](https://dropoutnft.io/). <p/>
 
-👨‍💻 Proficent with `Rust`, `JavaScript/TypeScript`, `NodeJS`, `React`<p/>
+👨‍💻 Proficent with `Rust`, `JavaScript/TypeScript`, `NodeJS`, `React`, `Solidity`<p/>
 
-💻 Solana smart programs, Smart contract using Solidity
+💻 Solana smart programs (Rust/Anchor), EVM Smart contracts (Solidity)
 
-☁️ Clouding with `AWS Lambdas`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
+☁️ Serverless development on `AWS Lambdas`, `Cloudflare Workers`, `Google Functions`, `Fastly Compute@Edge`<p/>
 
 ### Stats
 
