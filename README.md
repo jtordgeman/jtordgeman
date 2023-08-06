@@ -15,7 +15,7 @@
 
 🛠️ Head dev at [Dropout](https://dropoutnft.io/). <p/>
 
-👨‍💻 Proficent with `Rust`, `JavaScript/TypeScript`, `NodeJS`, `React`, `Solidity`<p/>
+👨‍💻 Proficent with `Rust`, `JavaScript/TypeScript`, `NodeJS (Vanilla, NextJS, NestJS)`, `React`, `Solidity`<p/>
 
 💻 Solana smart programs (Rust/Anchor), EVM Smart contracts (Solidity)
 
